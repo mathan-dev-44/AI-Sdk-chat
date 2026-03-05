@@ -2,6 +2,11 @@
 
 A full-stack AI chat application built with the [Vercel AI SDK v5](https://ai-sdk.dev/), featuring a React frontend and NestJS backend powered by Google Gemini.
 
+## beta link - Hi, hello, please, thanks… they’re polite, but they burn tokens 😅
+
+https://ai-sdk-chat-beta.vercel.app/
+
+
 ## Stack
 
 | Layer    | Tech                                                    |
