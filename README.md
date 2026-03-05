@@ -13,7 +13,6 @@ https://ai-sdk-chat-beta.vercel.app/
 | -------- | ------------------------------------------------------- |
 | Frontend | React 19, Vite, Tailwind CSS v4, shadcn/ui, AI SDK v5   |
 | Backend  | NestJS, AI SDK v5, Google Gemini (`@ai-sdk/google`)     |
-| Database | MongoDB (via Mongoose)                                  |
 
 ## Project Structure
 
@@ -38,7 +37,6 @@ AI-Sdk-chat/
 
 - Node.js 20+
 - pnpm
-- MongoDB instance
 - Google AI API key
 
 ### Backend
